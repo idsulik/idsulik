@@ -1,16 +1,24 @@
-## Hi there 👋
+# Suleiman Dibirov
 
-<!--
-**idsulik/idsulik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 10+ years of experience in software development and cloud-native technologies. CKAD certified.
 
-Here are some ideas to get you started:
+## 🔧 Tech Focus
+- Software Architecture & System Design
+- Cloud-Native Development
+- Kubernetes & Container Orchestration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Open Source
+Contributing to cloud-native ecosystem:
+- **Skaffold**: Performance optimization, new features
+- **Docker Compose**: Multi-container improvements
+- **Helm**: Package management enhancements
+
+## 📚 Content Creation
+- Technical articles: [Hackernoon]([https://hackernoon.com](https://hackernoon.com/idsulik)), [DZone]([https://dzone.com](https://dzone.com/authors/idsulik)), [Dev.to]([https://dev.to](https://dev.to/idsulik)), [Habr]([https://habr.com](https://habrahabr.ru/users/idsulik))
+- Algorithmic problem-solving videos on [YouTube](https://youtube.com/@idsulik)
+
+## 📫 Connect
+[GitHub](https://github.com/idsulik) | [LinkedIn](https://www.linkedin.com/in/idsulik/)
+
+## 📊 Stats
+[statis](https://github-readme-stats.vercel.app/api?username=idsulik&show_icons=true&theme=dracula)

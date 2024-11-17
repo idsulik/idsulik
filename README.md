@@ -9,6 +9,7 @@ Senior Software Engineer with 10+ years of experience in software development an
 ## 💻 Projects
 - [go-collections](https://github.com/idsulik/go-collections): Comprehensive Go package providing implementations of common data structures and algorithms
 - [swama](https://github.com/idsulik/swama): CLI tool for Swagger/OpenAPI definitions manipulation and analysis
+- [helm-cel](https://github.com/idsulik/helm-cel): Helm plugin that uses Common Expression Language (CEL) to validate values.
 
 ## 📚 Content Creation
 - Technical articles: [DZone](https://dzone.com/authors/idsulik), [Hackernoon](https://hackernoon.com/idsulik), [Dev.to](https://dev.to/idsulik), [Habr](https://habrahabr.ru/users/idsulik)

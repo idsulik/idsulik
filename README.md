@@ -5,6 +5,7 @@ Senior Software Engineer with 10+ years of experience in software development an
 - Software Architecture & System Design
 - Cloud-Native Development
 - Kubernetes & Container Orchestration
+- Applied AI & Developer Tooling
 
 ## 💻 Projects
 - [go-collections](https://github.com/idsulik/go-collections): Comprehensive Go package providing implementations of common data structures and algorithms
